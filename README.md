@@ -31,7 +31,7 @@
 
 #### 👇 Contakt 👇
 
-Mail: [angelika.mallek03@gmail.com](mailto:angelika.mallek03@gmail.com) <br>
+Mail: [krefta.angelika@gmail.com](mailto:krefta.angelika@gmail.com) <br>
 Tel: 697 879 773
 <!--
 **AngelikaMallek/AngelikaMallek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
