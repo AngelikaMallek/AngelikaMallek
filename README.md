@@ -27,7 +27,7 @@
 - Redux-Saga
 - Git
 
-#### WEB: https://angelikamallek.github.io/personal-homepage/
+#### WEB: https://angelikamallek.github.io/homepage/
 
 #### 👇 Contakt 👇
 
