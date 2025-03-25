@@ -2,7 +2,7 @@
 
 <div align="center"><img src="person.jpg" width="400" alt="Patryk Krawczyk's Dev Card"/></div>
 
-👨🏻‍💻 I’m a passionate Frontend Developer in love with React. I am looking for my first job and programming challenges. I want to explore new technologies, improve my skills and gain knowledge among other programmers. I’m always open to new projects whenever I have the time. If you have a website, dashboard or mobile app in mind and need some help to make your ideas come to life, feel free to conatct me.
+👨🏻‍💻 I am an IT professional who is constantly expanding my knowledge. I love testing new ideas and finding solutions to problems reported by users. My professional experience has allowed me to develop skills in IT system management and ensuring their efficiency in a production environment. My passion is web development, which I continuously pursue in my free time. It gives me great satisfaction. In my personal life, I am interested in sports, which helps me maintain a balance between work and personal life.
 
 ## Skills
 - Semantic & accessible HTML
@@ -24,8 +24,10 @@
 - Working with API (fetch, axios)
 - Teamwork
 - CSS Grid
-- Redux-Saga
 - Git
+- Knowledge of the MS Office suite (Power Query, administrative panel)
+- Experience with Streamsoft Prestiż
+- Database operations
 
 #### WEB: https://angelikamallek.github.io/homepage/
 
