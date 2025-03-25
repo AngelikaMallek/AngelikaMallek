@@ -23,7 +23,7 @@
 - CSS BEM convention
 - Working with API (fetch, axios)
 - Teamwork
-- CSS Grid
+- CSS Grid Flexbox
 - Git
 - Knowledge of the MS Office suite (Power Query, administrative panel)
 - Experience with Streamsoft Prestiż
